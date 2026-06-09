@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 const commands = [
   { prompt: "$ ./chinnaiah_profile.sh", output: "Initializing profile...", autoContinue: true },
   { prompt: "", output: "══════════════════════════════════════════════════\n👤 CHINNAIAH PANDISELVAM\n   Software Engineer | Backend & Embedded Systems\n══════════════════════════════════════════════════", autoContinue: false },
-  { prompt: "", output: "📍 Location: Coimbatore, Tamil Nadu\n📧 Email: chinnaiahp23@gmail.com\n📞 Phone: +91-8870098218", autoContinue: false },
+  { prompt: "", output: "📍 Location: Coimbatore, Tamil Nadu\n📧 Email: chinnaiahpandiselvam@gmail.com\n📞 Phone: +91 6369068451", autoContinue: false },
   { prompt: "", output: "[+] Loading career summary...", autoContinue: true },
   { prompt: "", output: "▸ 2+ years in mission-critical applications\n▸ Expertise: Backend dev, Network protocols, Real-time systems\n▸ Focus: Scalability, Performance, System reliability", autoContinue: false },
   { prompt: "", output: "[+] Scanning technical skills...", autoContinue: true },
@@ -12,7 +12,7 @@ const commands = [
   { prompt: "", output: "[+] Loading work experience...", autoContinue: true },
   { prompt: "", output: "┌─ PM SQUARE SOFT SERVICE PVT LTD ─────────────────┐", autoContinue: false },
   { prompt: "", output: "│ ▸ BMS (Bearer Management Service)               │\n│   Sep 2024 – Present                            │\n│   4G/5G bearer protocols • N5/RX interfaces     │\n│   HTTP/2 • Diameter Protocol • 99.9% uptime     │", autoContinue: false },
-  { prompt: "", output: "│ ▸ TRCP (Railway Control Protocol)               │\n│   Jan 2024 – Present                            │\n│   TCP/UDP socket communication • C++ backend    │\n│   Java frontend • 40% reliability improvement   │", autoContinue: false },
+  { prompt: "", output: "│ ▸ TRCP (Train Radio Control Panel )               │\n│   Jan 2024 – Present                            │\n│   TCP/UDP socket communication • C++ backend    │\n│   Java frontend • 40% reliability improvement   │", autoContinue: false },
   { prompt: "", output: "│ ▸ MCX-RCP-TRCP                                  │\n│   Jul 2023 – Dec 2023                           │\n│   Qt C++ embedded UI • Node.js backend          │\n│   30% faster bug resolution                     │\n└──────────────────────────────────────────────────┘", autoContinue: false },
   { prompt: "", output: "[+] Loading education...", autoContinue: true },
   { prompt: "", output: "🎓 B.E Mechanical Engineering\n   Sethu Institute of Technology (Anna University)\n   July 2018 - May 2022 | Tamil Nadu, India", autoContinue: false },
