@@ -6,7 +6,7 @@ const commands = [
   { prompt: "", output: "══════════════════════════════════════════════════\n👤 CHINNAIAH PANDISELVAM\n   Software Engineer | Backend & Embedded Systems\n══════════════════════════════════════════════════", autoContinue: false },
   { prompt: "", output: "📍 Location: Coimbatore, Tamil Nadu\n📧 Email: chinnaiahpandiselvam@gmail.com\n📞 Phone: +91 6369068451", autoContinue: false },
   { prompt: "", output: "[+] Loading career summary...", autoContinue: true },
-  { prompt: "", output: "▸ 2+ years in mission-critical applications\n▸ Expertise: Backend dev, Network protocols, Real-time systems\n▸ Focus: Scalability, Performance, System reliability", autoContinue: false },
+  { prompt: "", output: "▸ 3+ years in mission-critical applications\n▸ Expertise: Backend dev, Network protocols, Real-time systems\n▸ Focus: Scalability, Performance, System reliability", autoContinue: false },
   { prompt: "", output: "[+] Scanning technical skills...", autoContinue: true },
   { prompt: "", output: "├── Languages:  C++ • Java • Node.js • Shell Scripting\n├── Embedded:   Qt C++ • Serial UART\n├── Protocols:  TCP/UDP • HTTP/2 • Diameter • OPC UA • SNMP\n├── Database:   MySQL\n└── Tools:      GitHub • Version Control", autoContinue: false },
   { prompt: "", output: "[+] Loading work experience...", autoContinue: true },

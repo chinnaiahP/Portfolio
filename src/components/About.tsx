@@ -33,7 +33,7 @@ const About = () => {
             >
               As a result of working extensively on <span className="text-primary font-semibold">mission-critical applications</span>, 
               I have built expertise in <span className="text-secondary font-semibold">backend development</span>, 
-              network protocols, and real-time communication systems. With <span className="text-primary font-semibold">2 years of experience</span>, 
+              network protocols, and real-time communication systems. With <span className="text-primary font-semibold">3+ years of experience</span>, 
               I specialize in <span className="text-secondary">C++, Node.js, TCP/UDP, HTTP/2, and Diameter Protocol</span>, 
               focusing on scalability, performance optimization, and system reliability.
             </motion.p>
